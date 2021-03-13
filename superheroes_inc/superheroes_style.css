@@ -1,0 +1,25 @@
+#main_title {
+    font-family: 'Acme', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.list_in_geo {
+    font-family: 'Geo', sans-serif;
+    font-size: 20px;
+}
+
+.list_in_marker {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.portrait {
+    height: 100px;
+}
+
+.superman {
+    color: red;
+  }
+h2 {
+    color: #076194;
+  }
