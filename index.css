@@ -1,3 +1,21 @@
+/*
+*{
+    border: solid 1px red;
+} 
+*/
+
+.bottom_button {
+    background-color: blue;
+    border: solid 9px red;
+    border-radius: 15px;
+    color: yellow;
+    font-size: 30px;
+}
+
+.bottom_buttons {
+    text-align: center;
+}
+
 .upper1 {
     font-size: 35pt;
     color: rgb(2, 27, 27);
