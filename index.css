@@ -3,3 +3,34 @@
     border: solid 1px red;
 } 
 */
+
+.portrait {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 6%;
+  width: 20%;
+  border-style: dashed;
+  border-color: #b71dbd;
+  border-width: 8px;
+}
+
+.yellow_paragraph {
+  font-family: "Inconsolata", monospace;
+  color: #f3ea5f;
+  text-align: center;
+  font-size: 18px;
+}
+
+body {
+  background-color: #211c36;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Goldman", cursive;
+  color: #f3ea5f;
+  font-size: 40px;
+}
