@@ -16,12 +16,13 @@
   margin-left: 50px;
   margin: auto;
   flex-basis: auto;
-  max-width: 100%;
+  max-width: 40vw;
   flex-direction: column;
 }
 
 .bar_n_text_box {
   margin: 1% 1% 1% 1%;
+  width: 60vw;
   display: flex;
   flex-basis: auto;
   flex-grow: 1;
